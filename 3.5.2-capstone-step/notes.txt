@@ -1,0 +1,20 @@
+# Criteria
+
+## Completion
+Data and code are uploaded to Github (where applicable).
+For large datasets over 100MB, the student has used the Git Large File Extension.
+
+## Process and understanding
+The submission shows that the student understands how to collect relevant data.
+The submission includes datasets that were well-chosen
+and relevant to the problem.
+The datasets chosen meet the minimum size requirements (i.e. at least 15K samples).
+
+## Presentation
+Well-documented GitHub repository with code and data or pointers to the data.
+The code and repository document how the data was collected with links to the original sources.
+
+
+## Excellence:
+The student collected data from multiple disparate relevant sources (APIs, CSVs).
+The dataset is large (i.e. at least 8GB in size or contains over a million samples).
